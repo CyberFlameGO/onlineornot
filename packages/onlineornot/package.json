@@ -42,7 +42,7 @@
 		"esbuild": "^0.17.7",
 		"open": "^8.4.2",
 		"supports-color": "^9.3.1",
-		"undici": "^5.18.0",
+		"undici": "^5.26.2",
 		"update-check": "^1.5.4",
 		"yargs": "^17.6.2"
 	},
